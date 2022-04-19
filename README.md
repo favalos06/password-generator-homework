@@ -1,1 +1,3 @@
 # password-generator-homework
+
+This is an application the generates secure passwords. You are presented with a series of prompts to define the password citeria such as: the length of the password(8-128 characters), a lowercase letter, an uppercase letter, a number, and/or a special character. At least one character type should be selected. A randomized password is generated that matches the selected criteria. Password is displayed in the box to copy. 
